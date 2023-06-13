@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpringBootCalendar</string>
+    <string name="event_name">EventName</string>
+    <string name="event_start">EventStart</string>
+    <string name="event_end">EventEnd</string>
+    <string name="button_save_event">Save Event</string>
+    <string name="event_memo">EventMemo</string>
+    <string name="event_repeat">EventRepeat</string>
+</resources>
